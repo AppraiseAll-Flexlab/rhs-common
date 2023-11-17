@@ -1,0 +1,1 @@
+Object.defineProperty(exports,"__esModule",{value:true});var Primitive={objectId:"objectId",string:"string",date:"date",boolean:"boolean",number:"number",file:"file",json:"json"};exports.default=Primitive;
